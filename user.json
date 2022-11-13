@@ -1,0 +1,27 @@
+{
+  "NumberOfContract": 11,
+  "DateOfContract": "02.02.2023",
+  "Id": { 
+    "FIO": " Sidorin Daniel Gennadevich",
+    "city": "Ryazan"
+
+  },
+  "experiences": [
+    {
+      "companyid": 77,
+      "companyname": "Mind Tree LTD"
+    },
+    {
+      "companyid": 89,
+      "companyname": "TCS"
+    },
+    {
+      "companyid": 22,
+      "companyname": "Hello World LTD"
+    }
+  ],
+  "phoneNumber": 9988664422,
+  "role": "Developer"
+}   
+  ]
+}

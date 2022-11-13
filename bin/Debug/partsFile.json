@@ -1,0 +1,32 @@
+[
+  {
+    "NumberOfContract": 232,
+    "DateOfContract": "(3,2,2022)",
+    "Id": {
+      "Id": 1,
+      "FIO": "Sidorin daniel",
+      "Address": "Vishevay",
+      "PhoneNumber": "89913456789"
+    }
+  },
+  {
+    "NumberOfContract": 237,
+    "DateOfContract": "(7,5,2021)",
+    "Id": {
+      "Id": 2,
+      "FIO": "Korneev Vadim",
+      "Address": "Obshaga 3",
+      "PhoneNumber": "89156186278"
+    }
+  },
+  {
+    "NumberOfContract": 234,
+    "DateOfContract": "(4,3,2020)",
+    "Id": {
+      "Id": 3,
+      "FIO": "Bardin Maksim",
+      "Address": "Vokzalnay",
+      "PhoneNumber": "898982123454"
+    }
+  }
+]
